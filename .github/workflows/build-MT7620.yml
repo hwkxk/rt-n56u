@@ -2,8 +2,6 @@ name: Build MT7620
 
 on: 
   workflow_dispatch:
-  release:
-    types: [published]
 #  push:
 #    tags:
 #    - 'v*'
